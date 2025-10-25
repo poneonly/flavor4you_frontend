@@ -1,0 +1,1304 @@
+[
+  {
+    "id": 1,
+    "title": "Spaghetti Carbonara",
+    "description": "Traditional Italian pasta with egg and cheese sauce.",
+    "cookingTime": 25,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758655499/spaghetti_cabonara_wim5u1.jpg",
+    "userId": 1,
+    "categories": [
+      "Italian",
+      "Pasta"
+    ],
+    "servings": 2,
+    "views": 1234,
+    "rating": 4.5,
+    "author": "Chef Mario",
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "ingredientName": "Spaghetti",
+        "quantity": "200g"
+      },
+      {
+        "ingredientName": "Bacon",
+        "quantity": "100g"
+      },
+      {
+        "ingredientName": "Eggs",
+        "quantity": "2"
+      },
+      {
+        "ingredientName": "Parmesan cheese",
+        "quantity": "50g"
+      }
+    ],
+    "steps": [
+      "Boil the spaghetti until al dente.",
+      "Fry bacon until crispy.",
+      "Whisk eggs with Parmesan cheese.",
+      "Mix pasta with egg mixture and bacon, season to taste."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Beef Pho",
+    "description": "Traditional Vietnamese noodle soup with flavorful broth.",
+    "cookingTime": 180,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758655499/phobo_qbkpgq.jpg",
+    "userId": 2,
+    "categories": [
+      "Vietnamese",
+      "Soup"
+    ],
+    "servings": 4,
+    "views": 2456,
+    "rating": 4.8,
+    "author": "Chef Nguyen",
+    "difficulty": "hard",
+    "ingredients": [
+      {
+        "ingredientName": "Beef bones",
+        "quantity": "1kg"
+      },
+      {
+        "ingredientName": "Rice noodles",
+        "quantity": "500g"
+      },
+      {
+        "ingredientName": "Raw beef slices",
+        "quantity": "200g"
+      },
+      {
+        "ingredientName": "Onion, ginger, cinnamon, star anise",
+        "quantity": "to taste"
+      }
+    ],
+    "steps": [
+      "Simmer beef bones for 2–3 hours with onion, ginger, cinnamon, and star anise.",
+      "Blanch rice noodles and raw beef slices.",
+      "Pour broth into a bowl with beef and noodles.",
+      "Top with scallions and fresh herbs."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Vietnamese Banh Mi",
+    "description": "Vietnamese baguette sandwich with grilled pork and herbs.",
+    "cookingTime": 40,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758655500/banhmi_ydho3x.jpg",
+    "userId": 3,
+    "categories": [
+      "Vietnamese",
+      "Street Food"
+    ],
+    "servings": 1,
+    "views": 980,
+    "rating": 4.6,
+    "author": "Chef Lan",
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "ingredientName": "Baguette",
+        "quantity": "2"
+      },
+      {
+        "ingredientName": "Grilled pork",
+        "quantity": "200g"
+      },
+      {
+        "ingredientName": "Pickled carrots & daikon",
+        "quantity": "100g"
+      },
+      {
+        "ingredientName": "Cucumber, cilantro, chili",
+        "quantity": "to taste"
+      }
+    ],
+    "steps": [
+      "Grill marinated pork until golden brown.",
+      "Slice baguette and add pork, pickles, and herbs.",
+      "Spread pate or mayonnaise if desired."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Crispy Fried Chicken",
+    "description": "American-style fried chicken with a crunchy coating.",
+    "cookingTime": 60,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758655499/Crispy-Fried-Chicken_t16j3k.jpg",
+    "userId": 1,
+    "categories": [
+      "American",
+      "Fast Food"
+    ],
+    "servings": 3,
+    "views": 3120,
+    "rating": 4.7,
+    "author": "Chef John",
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "ingredientName": "Chicken drumsticks",
+        "quantity": "500g"
+      },
+      {
+        "ingredientName": "Fried chicken flour mix",
+        "quantity": "200g"
+      },
+      {
+        "ingredientName": "Egg",
+        "quantity": "1"
+      },
+      {
+        "ingredientName": "Cooking oil",
+        "quantity": "enough for deep frying"
+      }
+    ],
+    "steps": [
+      "Marinate chicken with seasoning for 30 minutes.",
+      "Coat chicken with flour, dip in egg, then coat again with flour.",
+      "Deep fry until golden and crispy."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Greek Salad",
+    "description": "Refreshing salad with feta cheese and olives.",
+    "cookingTime": 15,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758655499/greeksalad_c1kn6x.jpg",
+    "userId": 2,
+    "categories": [
+      "Greek",
+      "Healthy",
+      "Salad",
+      "Italian"
+    ],
+    "servings": 2,
+    "views": 860,
+    "rating": 4.3,
+    "author": "Chef Maria",
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "ingredientName": "Cucumber",
+        "quantity": "1"
+      },
+      {
+        "ingredientName": "Tomatoes",
+        "quantity": "2"
+      },
+      {
+        "ingredientName": "Red onion",
+        "quantity": "1 small"
+      },
+      {
+        "ingredientName": "Feta cheese",
+        "quantity": "100g"
+      },
+      {
+        "ingredientName": "Black olives",
+        "quantity": "50g"
+      }
+    ],
+    "steps": [
+      "Chop cucumber, tomatoes, and onion.",
+      "Mix with olives and feta cheese.",
+      "Drizzle with olive oil and season with salt and oregano."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Chicken Caesar Salad",
+    "description": "Classic salad with grilled chicken, romaine lettuce, and Caesar dressing.",
+    "cookingTime": 20,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758686494/The_Best_Chicken_Caesar_Pasta_Salad_in_2025_lsmhxk.jpg",
+    "userId": 3,
+    "categories": [
+      "American",
+      "Salad",
+      "Healthy"
+    ],
+    "servings": 2,
+    "views": 1850,
+    "rating": 4.4,
+    "author": "Chef Sarah",
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "ingredientName": "Chicken breast",
+        "quantity": "300g"
+      },
+      {
+        "ingredientName": "Romaine lettuce",
+        "quantity": "1 head"
+      },
+      {
+        "ingredientName": "Parmesan cheese",
+        "quantity": "50g"
+      },
+      {
+        "ingredientName": "Caesar dressing",
+        "quantity": "4 tbsp"
+      },
+      {
+        "ingredientName": "Croutons",
+        "quantity": "50g"
+      }
+    ],
+    "steps": [
+      "Cook penne pasta until al dente.",
+      "Sauté mixed vegetables until tender-crisp.",
+      "Add cherry tomatoes and cook 3 minutes.",
+      "Toss pasta with vegetables, olive oil, and Parmesan."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Vietnamese Spring Rolls",
+    "description": "Fresh spring rolls with shrimp, herbs, and peanut dipping sauce.",
+    "cookingTime": 30,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758686675/download_1_pkoinb.jpg",
+    "userId": 4,
+    "categories": [
+      "Vietnamese",
+      "Healthy",
+      "Street Food"
+    ],
+    "servings": 4,
+    "views": 1650,
+    "rating": 4.6,
+    "author": "Chef Linh",
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "ingredientName": "Rice paper",
+        "quantity": "12 sheets"
+      },
+      {
+        "ingredientName": "Cooked shrimp",
+        "quantity": "200g"
+      },
+      {
+        "ingredientName": "Rice vermicelli",
+        "quantity": "100g"
+      },
+      {
+        "ingredientName": "Lettuce, mint, cilantro",
+        "quantity": "to taste"
+      },
+      {
+        "ingredientName": "Peanut sauce",
+        "quantity": "4 tbsp"
+      }
+    ],
+    "steps": [
+      "Cook rice vermicelli according to package directions.",
+      "Soften rice paper in warm water.",
+      "Fill with shrimp, noodles, and fresh herbs.",
+      "Roll tightly and serve with peanut sauce."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Spaghetti Bolognese",
+    "description": "Classic Italian pasta with rich meat sauce.",
+    "cookingTime": 90,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758686750/Spaghetti_Bolognese_gvyqkb.jpg",
+    "userId": 1,
+    "categories": [
+      "Italian",
+      "Pasta"
+    ],
+    "servings": 4,
+    "views": 2890,
+    "rating": 4.8,
+    "author": "Chef Antonio",
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "ingredientName": "Spaghetti",
+        "quantity": "400g"
+      },
+      {
+        "ingredientName": "Ground beef",
+        "quantity": "300g"
+      },
+      {
+        "ingredientName": "Canned tomatoes",
+        "quantity": "400g"
+      },
+      {
+        "ingredientName": "Onion, carrot, celery",
+        "quantity": "1 each"
+      },
+      {
+        "ingredientName": "Red wine",
+        "quantity": "100ml"
+      }
+    ],
+    "steps": [
+      "Sauté diced vegetables until soft.",
+      "Add ground beef and brown thoroughly.",
+      "Add tomatoes and wine, simmer for 1 hour.",
+      "Cook pasta and serve with sauce and Parmesan."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Tom Yum Soup",
+    "description": "Spicy and sour Thai soup with aromatic herbs.",
+    "cookingTime": 25,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758686755/Tom_Yum_Soup__A_Spicy_and_Sour_Thai_Delicacy_fmkp7j.jpg",
+    "userId": 5,
+    "categories": [
+      "Vietnamese",
+      "Soup"
+    ],
+    "servings": 3,
+    "views": 1750,
+    "rating": 4.5,
+    "author": "Chef Thao",
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "ingredientName": "Shrimp",
+        "quantity": "200g"
+      },
+      {
+        "ingredientName": "Mushrooms",
+        "quantity": "150g"
+      },
+      {
+        "ingredientName": "Lemongrass, galangal, lime leaves",
+        "quantity": "to taste"
+      },
+      {
+        "ingredientName": "Fish sauce, lime juice, chili",
+        "quantity": "to taste"
+      }
+    ],
+    "steps": [
+      "Boil water with lemongrass, galangal, and lime leaves.",
+      "Add mushrooms and simmer for 5 minutes.",
+      "Add shrimp and cook until pink.",
+      "Season with fish sauce, lime juice, and chili."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "BBQ Burger",
+    "description": "American-style burger with BBQ sauce and crispy onions.",
+    "cookingTime": 30,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758686855/Post_by_foodat88_1_image_elwhbo.jpg",
+    "userId": 2,
+    "categories": [
+      "American",
+      "Fast Food"
+    ],
+    "servings": 2,
+    "views": 2100,
+    "rating": 4.6,
+    "author": "Chef Mike",
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "ingredientName": "Beef patties",
+        "quantity": "2"
+      },
+      {
+        "ingredientName": "Burger buns",
+        "quantity": "2"
+      },
+      {
+        "ingredientName": "BBQ sauce",
+        "quantity": "3 tbsp"
+      },
+      {
+        "ingredientName": "Cheese slices",
+        "quantity": "2"
+      },
+      {
+        "ingredientName": "Onion rings",
+        "quantity": "6"
+      }
+    ],
+    "steps": [
+      "Grill beef patties to desired doneness.",
+      "Toast burger buns lightly.",
+      "Assemble burger with patty, cheese, and BBQ sauce.",
+      "Top with crispy onion rings and serve."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Fettuccine Alfredo",
+    "description": "Creamy Italian pasta with butter and Parmesan sauce.",
+    "cookingTime": 20,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758686863/Fettuccine_Alfredo_ncsrya.jpg",
+    "userId": 3,
+    "categories": [
+      "Italian",
+      "Pasta"
+    ],
+    "servings": 3,
+    "views": 1950,
+    "rating": 4.4,
+    "author": "Chef Giuseppe",
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "ingredientName": "Fettuccine pasta",
+        "quantity": "300g"
+      },
+      {
+        "ingredientName": "Butter",
+        "quantity": "100g"
+      },
+      {
+        "ingredientName": "Heavy cream",
+        "quantity": "200ml"
+      },
+      {
+        "ingredientName": "Parmesan cheese",
+        "quantity": "100g"
+      }
+    ],
+    "steps": [
+      "Cook fettuccine until al dente.",
+      "Melt butter in a large pan.",
+      "Add cream and grated Parmesan, stir until smooth.",
+      "Toss pasta with sauce and serve immediately."
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Mediterranean Quinoa Salad",
+    "description": "Healthy quinoa salad with olives, tomatoes, and feta.",
+    "cookingTime": 25,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758686866/Mediterranean_Quinoa_Salad_xz3skd.jpg",
+    "userId": 4,
+    "categories": [
+      "Greek",
+      "Healthy",
+      "Salad"
+    ],
+    "servings": 4,
+    "views": 1340,
+    "rating": 4.3,
+    "author": "Chef Elena",
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "ingredientName": "Quinoa",
+        "quantity": "200g"
+      },
+      {
+        "ingredientName": "Cherry tomatoes",
+        "quantity": "150g"
+      },
+      {
+        "ingredientName": "Cucumber",
+        "quantity": "1"
+      },
+      {
+        "ingredientName": "Feta cheese",
+        "quantity": "100g"
+      },
+      {
+        "ingredientName": "Kalamata olives",
+        "quantity": "80g"
+      }
+    ],
+    "steps": [
+      "Cook quinoa according to package directions and cool.",
+      "Dice cucumber and halve cherry tomatoes.",
+      "Crumble feta cheese.",
+      "Mix all ingredients with olive oil and lemon dressing."
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Vietnamese Bun Bo Hue",
+    "description": "Spicy Vietnamese noodle soup with beef and lemongrass.",
+    "cookingTime": 120,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758687001/B%C3%BAn_B%C3%B2_Hu%E1%BA%BF_usv42g.jpg",
+    "userId": 5,
+    "categories": [
+      "Vietnamese",
+      "Soup"
+    ],
+    "servings": 4,
+    "views": 1580,
+    "rating": 4.7,
+    "author": "Chef Hue",
+    "difficulty": "hard",
+    "ingredients": [
+      {
+        "ingredientName": "Beef bones and pork bones",
+        "quantity": "1kg"
+      },
+      {
+        "ingredientName": "Round rice noodles",
+        "quantity": "400g"
+      },
+      {
+        "ingredientName": "Beef shank",
+        "quantity": "300g"
+      },
+      {
+        "ingredientName": "Lemongrass, chili oil, shrimp paste",
+        "quantity": "to taste"
+      }
+    ],
+    "steps": [
+      "Simmer bones with lemongrass for 2 hours.",
+      "Add beef shank and cook until tender.",
+      "Cook noodles separately and place in bowls.",
+      "Serve broth over noodles with chili oil and herbs."
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Chicken Wings Buffalo Style",
+    "description": "Spicy American buffalo wings with blue cheese dip.",
+    "cookingTime": 45,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758687003/Buffalo_Ranch_Wings_n2ot4t.jpg",
+    "userId": 1,
+    "categories": [
+      "American",
+      "Fast Food"
+    ],
+    "servings": 3,
+    "views": 2750,
+    "rating": 4.5,
+    "author": "Chef Bobby",
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "ingredientName": "Chicken wings",
+        "quantity": "500g"
+      },
+      {
+        "ingredientName": "Buffalo sauce",
+        "quantity": "100ml"
+      },
+      {
+        "ingredientName": "Butter",
+        "quantity": "50g"
+      },
+      {
+        "ingredientName": "Blue cheese dressing",
+        "quantity": "4 tbsp"
+      }
+    ],
+    "steps": [
+      "Bake chicken wings at 200°C for 30 minutes.",
+      "Mix buffalo sauce with melted butter.",
+      "Toss cooked wings in buffalo sauce mixture.",
+      "Serve with blue cheese dressing and celery sticks."
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Lasagna Classica",
+    "description": "Traditional Italian layered pasta with meat sauce and cheese.",
+    "cookingTime": 120,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758687008/The_Ultimate_Lasagna_Recipe__Layers_of_Love_on_Your_Plate_frlqot.jpg",
+    "userId": 2,
+    "categories": [
+      "Italian",
+      "Pasta"
+    ],
+    "servings": 6,
+    "views": 3250,
+    "rating": 4.9,
+    "author": "Chef Rosa",
+    "difficulty": "hard",
+    "ingredients": [
+      {
+        "ingredientName": "Lasagna sheets",
+        "quantity": "12"
+      },
+      {
+        "ingredientName": "Ground beef",
+        "quantity": "400g"
+      },
+      {
+        "ingredientName": "Ricotta cheese",
+        "quantity": "500g"
+      },
+      {
+        "ingredientName": "Mozzarella cheese",
+        "quantity": "300g"
+      },
+      {
+        "ingredientName": "Tomato sauce",
+        "quantity": "500ml"
+      }
+    ],
+    "steps": [
+      "Brown ground beef with onions and add tomato sauce.",
+      "Cook lasagna sheets until al dente.",
+      "Layer sauce, pasta, ricotta, and mozzarella.",
+      "Bake at 180°C for 45 minutes until golden."
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Asian Chicken Salad",
+    "description": "Fresh salad with grilled chicken and sesame dressing.",
+    "cookingTime": 25,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758687081/Crunchy_Asian_Sesame_Chicken_Salad__A_Flavorful_Delight_eim0q4.jpg",
+    "userId": 3,
+    "categories": [
+      "Vietnamese",
+      "Healthy",
+      "Salad"
+    ],
+    "servings": 2,
+    "views": 1450,
+    "rating": 4.4,
+    "author": "Chef Kim",
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "ingredientName": "Chicken breast",
+        "quantity": "250g"
+      },
+      {
+        "ingredientName": "Mixed greens",
+        "quantity": "200g"
+      },
+      {
+        "ingredientName": "Carrots",
+        "quantity": "1"
+      },
+      {
+        "ingredientName": "Sesame dressing",
+        "quantity": "4 tbsp"
+      },
+      {
+        "ingredientName": "Sesame seeds",
+        "quantity": "2 tbsp"
+      }
+    ],
+    "steps": [
+      "Grill chicken breast and slice thinly.",
+      "Julienne carrots and prepare mixed greens.",
+      "Toss salad ingredients with sesame dressing.",
+      "Top with grilled chicken and sesame seeds."
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Chicken Noodle Soup",
+    "description": "Comforting American soup with tender chicken and vegetables.",
+    "cookingTime": 60,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758687097/Classic_Chicken_Noodle_Soup_Recipe_pwlzzr.jpg",
+    "userId": 4,
+    "categories": [
+      "American",
+      "Soup",
+      "Healthy"
+    ],
+    "servings": 4,
+    "views": 1890,
+    "rating": 4.6,
+    "author": "Chef Nancy",
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "ingredientName": "Chicken breast",
+        "quantity": "300g"
+      },
+      {
+        "ingredientName": "Egg noodles",
+        "quantity": "200g"
+      },
+      {
+        "ingredientName": "Carrots, celery, onion",
+        "quantity": "2 each"
+      },
+      {
+        "ingredientName": "Chicken broth",
+        "quantity": "1.5L"
+      }
+    ],
+    "steps": [
+      "Simmer chicken breast in broth until cooked.",
+      "Remove chicken, shred, and return to pot.",
+      "Add diced vegetables and simmer 20 minutes.",
+      "Add noodles and cook until tender."
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Greek Moussaka Salad",
+    "description": "Deconstructed moussaka flavors in a fresh salad.",
+    "cookingTime": 30,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758687223/Easy_Moussaka__A_Comforting_Greek_Classic_Made_Simple_os9r9d.jpg",
+    "userId": 5,
+    "categories": [
+      "Greek",
+      "Salad",
+      "Healthy"
+    ],
+    "servings": 3,
+    "views": 1120,
+    "rating": 4.2,
+    "author": "Chef Dimitri",
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "ingredientName": "Eggplant",
+        "quantity": "1 large"
+      },
+      {
+        "ingredientName": "Ground lamb",
+        "quantity": "200g"
+      },
+      {
+        "ingredientName": "Tomatoes",
+        "quantity": "2"
+      },
+      {
+        "ingredientName": "Feta cheese",
+        "quantity": "150g"
+      },
+      {
+        "ingredientName": "Mixed herbs",
+        "quantity": "to taste"
+      }
+    ],
+    "steps": [
+      "Grill eggplant slices until tender.",
+      "Cook ground lamb with onions and herbs.",
+      "Arrange eggplant, lamb, and tomatoes on plates.",
+      "Top with crumbled feta and drizzle with olive oil."
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Vietnamese Com Tam",
+    "description": "Broken rice with grilled pork and pickled vegetables.",
+    "cookingTime": 45,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758687226/download_2_yrqobj.jpg",
+    "userId": 1,
+    "categories": [
+      "Vietnamese",
+      "Street Food"
+    ],
+    "servings": 2,
+    "views": 1680,
+    "rating": 4.5,
+    "author": "Chef Duc",
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "ingredientName": "Broken rice",
+        "quantity": "300g"
+      },
+      {
+        "ingredientName": "Pork chops",
+        "quantity": "2"
+      },
+      {
+        "ingredientName": "Pickled vegetables",
+        "quantity": "100g"
+      },
+      {
+        "ingredientName": "Fish sauce dressing",
+        "quantity": "3 tbsp"
+      }
+    ],
+    "steps": [
+      "Cook broken rice until tender.",
+      "Marinate and grill pork chops until golden.",
+      "Prepare pickled vegetables and fish sauce dressing.",
+      "Serve rice with pork and vegetables on the side."
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Fish and Chips",
+    "description": "Classic British-American fried fish with crispy fries.",
+    "cookingTime": 50,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758687228/Fish_and_Chips___TheFamilyCooking_rwjvjg.jpg",
+    "userId": 2,
+    "categories": [
+      "American",
+      "Fast Food"
+    ],
+    "servings": 2,
+    "views": 2340,
+    "rating": 4.4,
+    "author": "Chef William",
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "ingredientName": "White fish fillets",
+        "quantity": "400g"
+      },
+      {
+        "ingredientName": "Potatoes",
+        "quantity": "500g"
+      },
+      {
+        "ingredientName": "Beer batter mix",
+        "quantity": "200g"
+      },
+      {
+        "ingredientName": "Cooking oil",
+        "quantity": "for deep frying"
+      }
+    ],
+    "steps": [
+      "Cut potatoes into chips and fry until golden.",
+      "Prepare beer batter and coat fish fillets.",
+      "Deep fry fish until crispy and golden.",
+      "Serve with chips, tartar sauce, and lemon."
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Penne Arrabbiata",
+    "description": "Spicy Italian pasta with tomatoes and chili peppers.",
+    "cookingTime": 25,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758687353/Pasta_ufx1dv.jpg",
+    "userId": 3,
+    "categories": [
+      "Italian",
+      "Pasta"
+    ],
+    "servings": 3,
+    "views": 1750,
+    "rating": 4.3,
+    "author": "Chef Franco",
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "ingredientName": "Penne pasta",
+        "quantity": "300g"
+      },
+      {
+        "ingredientName": "Canned tomatoes",
+        "quantity": "400g"
+      },
+      {
+        "ingredientName": "Red chili peppers",
+        "quantity": "2"
+      },
+      {
+        "ingredientName": "Garlic",
+        "quantity": "4 cloves"
+      },
+      {
+        "ingredientName": "Parsley",
+        "quantity": "fresh"
+      }
+    ],
+    "steps": [
+      "Cook penne pasta until al dente.",
+      "Sauté garlic and chili in olive oil.",
+      "Add crushed tomatoes and simmer 15 minutes.",
+      "Toss pasta with sauce and fresh parsley."
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Spinach and Feta Salad",
+    "description": "Fresh Greek-inspired salad with baby spinach and feta.",
+    "cookingTime": 10,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758687356/Apple_Spinach_Salad_with_Candied_Pecans_and_Feta_z3cexi.jpg",
+    "userId": 4,
+    "categories": [
+      "Greek",
+      "Healthy",
+      "Salad"
+    ],
+    "servings": 2,
+    "views": 980,
+    "rating": 4.1,
+    "author": "Chef Sophia",
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "ingredientName": "Baby spinach",
+        "quantity": "200g"
+      },
+      {
+        "ingredientName": "Feta cheese",
+        "quantity": "100g"
+      },
+      {
+        "ingredientName": "Walnuts",
+        "quantity": "50g"
+      },
+      {
+        "ingredientName": "Dried cranberries",
+        "quantity": "30g"
+      },
+      {
+        "ingredientName": "Balsamic vinaigrette",
+        "quantity": "3 tbsp"
+      }
+    ],
+    "steps": [
+      "Wash and dry baby spinach leaves.",
+      "Crumble feta cheese into chunks.",
+      "Toast walnuts lightly if desired.",
+      "Combine all ingredients and toss with vinaigrette."
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Minestrone Soup",
+    "description": "Hearty Italian vegetable soup with beans and pasta.",
+    "cookingTime": 45,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758687360/Classic_Minestrone_Soup_ard6j5.jpg",
+    "userId": 5,
+    "categories": [
+      "Italian",
+      "Soup",
+      "Healthy"
+    ],
+    "servings": 4,
+    "views": 1450,
+    "rating": 4.4,
+    "author": "Chef Isabella",
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "ingredientName": "Mixed vegetables",
+        "quantity": "400g"
+      },
+      {
+        "ingredientName": "Cannellini beans",
+        "quantity": "200g"
+      },
+      {
+        "ingredientName": "Small pasta",
+        "quantity": "100g"
+      },
+      {
+        "ingredientName": "Vegetable broth",
+        "quantity": "1.5L"
+      },
+      {
+        "ingredientName": "Tomato paste",
+        "quantity": "2 tbsp"
+      }
+    ],
+    "steps": [
+      "Sauté diced vegetables in olive oil.",
+      "Add tomato paste and cook for 2 minutes.",
+      "Add broth, beans, and simmer 30 minutes.",
+      "Add pasta and cook until tender."
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Vietnamese Bun Cha",
+    "description": "Grilled pork with vermicelli noodles and herbs.",
+    "cookingTime": 40,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758687361/Very_Authentic_B%C3%BAn_Ch%E1%BA%A3_H%C3%A0_N%E1%BB%99i_Recipe_From_A_Hanoian_nysagx.jpg",
+    "userId": 1,
+    "categories": [
+      "Vietnamese",
+      "Street Food"
+    ],
+    "servings": 2,
+    "views": 1850,
+    "rating": 4.6,
+    "author": "Chef Hang",
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "ingredientName": "Pork belly",
+        "quantity": "300g"
+      },
+      {
+        "ingredientName": "Rice vermicelli",
+        "quantity": "200g"
+      },
+      {
+        "ingredientName": "Fresh herbs",
+        "quantity": "mixed"
+      },
+      {
+        "ingredientName": "Nuoc cham sauce",
+        "quantity": "4 tbsp"
+      }
+    ],
+    "steps": [
+      "Marinate and grill pork belly until caramelized.",
+      "Cook rice vermicelli until tender.",
+      "Prepare fresh herb platter.",
+      "Serve with nuoc cham dipping sauce."
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Classic Cheeseburger",
+    "description": "All-American cheeseburger with lettuce, tomato, and pickles.",
+    "cookingTime": 25,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758687602/download_3_gg19nv.jpg",
+    "userId": 2,
+    "categories": [
+      "American",
+      "Fast Food"
+    ],
+    "servings": 2,
+    "views": 2650,
+    "rating": 4.5,
+    "author": "Chef Jake",
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "ingredientName": "Ground beef",
+        "quantity": "300g"
+      },
+      {
+        "ingredientName": "Burger buns",
+        "quantity": "2"
+      },
+      {
+        "ingredientName": "American cheese",
+        "quantity": "2 slices"
+      },
+      {
+        "ingredientName": "Lettuce, tomato, pickles",
+        "quantity": "to taste"
+      }
+    ],
+    "steps": [
+      "Form ground beef into 2 patties.",
+      "Grill patties to desired doneness.",
+      "Add cheese in last minute of cooking.",
+      "Assemble burgers with vegetables and condiments."
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Vietnamese Banh Xeo",
+    "description": "Crispy Vietnamese crepe filled with pork, shrimp, and bean sprouts.",
+    "cookingTime": 45,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758687907/When_life_is_a_little_too_hard_step_back_for_a_while_and_savor_some_Vietnamese_Banh_Xeo___visit_vietnamtm_net_for_more____vietnamtm_vietnamexploring_vnatour_vietnam_vietnamtravel_vietnamfood_banhxeo_ep563k.jpg",
+    "userId": 3,
+    "categories": [
+      "Vietnamese",
+      "Street Food"
+    ],
+    "servings": 3,
+    "views": 1720,
+    "rating": 4.5,
+    "author": "Chef Tuan",
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "ingredientName": "Rice flour",
+        "quantity": "200g"
+      },
+      {
+        "ingredientName": "Coconut milk",
+        "quantity": "400ml"
+      },
+      {
+        "ingredientName": "Pork belly",
+        "quantity": "150g"
+      },
+      {
+        "ingredientName": "Shrimp",
+        "quantity": "150g"
+      },
+      {
+        "ingredientName": "Bean sprouts",
+        "quantity": "200g"
+      },
+      {
+        "ingredientName": "Green onions",
+        "quantity": "3 stalks"
+      }
+    ],
+    "steps": [
+      "Mix rice flour with coconut milk and turmeric to make batter.",
+      "Slice pork belly and clean shrimp.",
+      "Heat pan and cook pork and shrimp until done.",
+      "Pour batter into pan, add bean sprouts, fold and serve with herbs."
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Greek Village Salad",
+    "description": "Authentic Greek horiatiki salad with fresh vegetables.",
+    "cookingTime": 15,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758687666/Greek_Village_Salad_Horiatiki_Salata_-_Zimmy_s_Nook_z1nghx.jpg",
+    "userId": 4,
+    "categories": [
+      "Greek",
+      "Healthy",
+      "Salad"
+    ],
+    "servings": 3,
+    "views": 1250,
+    "rating": 4.5,
+    "author": "Chef Nikos",
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "ingredientName": "Large tomatoes",
+        "quantity": "3"
+      },
+      {
+        "ingredientName": "Cucumber",
+        "quantity": "1"
+      },
+      {
+        "ingredientName": "Green bell pepper",
+        "quantity": "1"
+      },
+      {
+        "ingredientName": "Red onion",
+        "quantity": "1 small"
+      },
+      {
+        "ingredientName": "Feta cheese block",
+        "quantity": "200g"
+      },
+      {
+        "ingredientName": "Kalamata olives",
+        "quantity": "100g"
+      }
+    ],
+    "steps": [
+      "Cut tomatoes into large wedges.",
+      "Slice cucumber and bell pepper into rings.",
+      "Add sliced red onion and olives.",
+      "Top with feta block, olive oil, and oregano."
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Vietnamese Pho Ga",
+    "description": "Chicken version of the classic Vietnamese pho soup.",
+    "cookingTime": 90,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758687604/Ph%E1%BB%9F_Vi%E1%BB%87t_Nam_mk48z6.jpg",
+    "userId": 5,
+    "categories": [
+      "Vietnamese",
+      "Soup"
+    ],
+    "servings": 4,
+    "views": 2180,
+    "rating": 4.7,
+    "author": "Chef Mai",
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "ingredientName": "Whole chicken",
+        "quantity": "1kg"
+      },
+      {
+        "ingredientName": "Rice noodles",
+        "quantity": "400g"
+      },
+      {
+        "ingredientName": "Onion, ginger, star anise",
+        "quantity": "to taste"
+      },
+      {
+        "ingredientName": "Fish sauce, herbs",
+        "quantity": "to taste"
+      }
+    ],
+    "steps": [
+      "Simmer whole chicken with aromatics for 1 hour.",
+      "Remove chicken, shred meat, and strain broth.",
+      "Cook rice noodles until tender.",
+      "Serve broth over noodles with chicken and herbs."
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Loaded Nachos",
+    "description": "American-style nachos with cheese, jalapeños, and toppings.",
+    "cookingTime": 20,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758687671/Easy_Loaded_Nachos_Recipe_The_Ultimate_Mexican-Inspired_Meal_-_RecipeSize_qdwrwx.jpg",
+    "userId": 1,
+    "categories": [
+      "American",
+      "Fast Food"
+    ],
+    "servings": 4,
+    "views": 1950,
+    "rating": 4.3,
+    "author": "Chef Carlos",
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "ingredientName": "Tortilla chips",
+        "quantity": "300g"
+      },
+      {
+        "ingredientName": "Shredded cheese",
+        "quantity": "200g"
+      },
+      {
+        "ingredientName": "Jalapeños",
+        "quantity": "50g"
+      },
+      {
+        "ingredientName": "Sour cream, guacamole",
+        "quantity": "to taste"
+      }
+    ],
+    "steps": [
+      "Spread tortilla chips on baking sheet.",
+      "Sprinkle with cheese and sliced jalapeños.",
+      "Bake at 180°C for 10 minutes until cheese melts.",
+      "Serve with sour cream and guacamole."
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Ravioli with Sage Butter",
+    "description": "Italian stuffed pasta with brown butter and sage sauce.",
+    "cookingTime": 25,
+    "recipeImages": "https://res.cloudinary.com/dkp10td9f/image/upload/v1758687688/15-Minute_Ravioli_with_Brown_Butter_Sage_-_Irresistible_-_Wilingga_Recipes_kmxvlz.jpg",
+    "userId": 2,
+    "categories": [
+      "Italian",
+      "Pasta"
+    ],
+    "servings": 2,
+    "views": 1680,
+    "rating": 4.6,
+    "author": "Chef Lorenzo",
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "ingredientName": "Fresh ravioli",
+        "quantity": "300g"
+      },
+      {
+        "ingredientName": "Butter",
+        "quantity": "80g"
+      },
+      {
+        "ingredientName": "Fresh sage leaves",
+        "quantity": "12"
+      },
+      {
+        "ingredientName": "Parmesan cheese",
+        "quantity": "50g"
+      }
+    ],
+    "steps": [
+      "Cook ravioli in salted boiling water until they float.",
+      "Brown butter in a large pan with sage leaves.",
+      "Add cooked ravioli to the brown butter.",
+      "Serve with grated Parmesan cheese."
+    ]
+  }
+]

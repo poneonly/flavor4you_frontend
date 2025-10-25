@@ -1,0 +1,12 @@
+[
+  { "id": "Dishes", "name": "Pasta" },
+  { "id": "Dishes", "name": "Soup" },
+  { "id": "Dishes", "name": "Salad" },
+  { "id": "Dishes", "name": "Street Food" },
+  { "id": "Dishes", "name": "Fast Food" },
+
+  { "id": "Cuisines", "name": "Italian" },
+  { "id": "Cuisines", "name": "Vietnamese" },
+  { "id": "Cuisines", "name": "American" },
+  { "id": "Cuisines", "name": "Greek" }
+]

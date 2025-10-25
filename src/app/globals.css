@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@layer utilities {
+  
+   .font-playfair {
+    font-family: var(--font-playfair), serif;
+  }
+  .font-manrope {
+    font-family: var(--font-manrope);
+  }
+}
+
+:root {
+  --background: #ffffff;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --font-playfair: var(--font-playfair);
+  --font-manrope: var(--font-manrope);
+  --color-primary: #F8B25B;
+  --color-primary-light: #FDC882;
+  --color-primary-dark: #E09C4A;
+  --color-neutral-900: #0B0B0B;
+  --color-neutral-500: #EEEEEE;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--color-neutral-900);
+}
+
+p {
+  font-family: var(--font-manrope);
+}
+
+
+

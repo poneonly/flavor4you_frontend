@@ -1,0 +1,142 @@
+[
+ {
+   "id": 1,
+   "title": "Spaghetti Carbonara",
+   "author": "Anna",
+   "description": "Classic Italian pasta dish, so delicious hihi doi bung qua doi bung qua doi bung qua doi bung qua doi bung qua doi bung qua",
+   "time": "20 mins",
+   "category": ["Main Dish", "Italian", "Pasta", "Quick & Easy"],
+   "ingredients": ["Spaghetti", "Eggs", "Parmesan", "Bacon"],
+   "steps": ["Boil pasta", "Cook bacon", "Mix eggs & cheese", "Combine all together"]
+ },
+ {
+   "id": 2,
+   "title": "Chocolate Cake",
+   "author": "Ben",
+   "description": "Rich and moist cake",
+   "time": "45 mins",
+   "category": ["Dessert", "Baking", "Chocolate", "Birthday"],
+   "ingredients": ["Flour", "Cocoa powder", "Sugar", "Eggs"],
+   "steps": ["Mix dry ingredients", "Add wet ingredients", "Bake in oven"]
+ },
+ {
+   "id": 3,
+   "title": "Caesar Salad",
+   "author": "Maria",
+   "description": "Fresh and crispy salad with homemade dressing",
+   "time": "15 mins",
+   "category": ["Salad", "Healthy", "Vegetarian", "Quick & Easy"],
+   "ingredients": ["Romaine lettuce", "Parmesan cheese", "Croutons", "Caesar dressing"],
+   "steps": ["Wash and chop lettuce", "Add croutons and cheese", "Drizzle with dressing", "Toss and serve"]
+ },
+ {
+   "id": 4,
+   "title": "Beef Stir Fry",
+   "author": "David",
+   "description": "Asian-inspired stir fry with fresh vegetables",
+   "time": "25 mins",
+   "category": ["Main Dish", "Asian", "Beef", "Stir Fry"],
+   "ingredients": ["Beef strips", "Bell peppers", "Broccoli", "Soy sauce", "Garlic"],
+   "steps": ["Heat oil in pan", "Cook beef until browned", "Add vegetables", "Stir in sauce and cook"]
+ },
+ {
+    "id": 5,
+    "title": "Chicken Tikka Masala",
+    "author": "Priya",
+    "description": "Creamy and aromatic Indian curry with tender chicken pieces in rich tomato sauce",
+    "time": "35 mins",
+    "category": ["Main Dish", "Indian", "Chicken", "Curry"],
+    "ingredients": ["Chicken breast", "Yogurt", "Tomatoes", "Heavy cream", "Garam masala", "Ginger", "Garlic"],
+    "steps": ["Marinate chicken in yogurt and spices", "Cook chicken until golden", "Prepare tomato sauce", "Combine chicken with sauce and simmer"]
+  },
+  {
+    "id": 6,
+    "title": "Avocado Toast",
+    "author": "Sophie",
+    "description": "Simple yet satisfying breakfast with creamy avocado on crispy sourdough bread",
+    "time": "10 mins",
+    "category": ["Breakfast", "Healthy", "Vegetarian", "Quick & Easy"],
+    "ingredients": ["Sourdough bread", "Ripe avocado", "Lime juice", "Salt", "Black pepper", "Red pepper flakes"],
+    "steps": ["Toast bread until golden", "Mash avocado with lime and seasonings", "Spread on toast", "Garnish with pepper flakes"]
+  },
+  {
+    "id": 7,
+    "title": "Mushroom Risotto",
+    "author": "Lorenzo",
+    "description": "Creamy Italian rice dish with earthy mushrooms and parmesan cheese",
+    "time": "40 mins",
+    "category": ["Main Dish", "Italian", "Rice", "Vegetarian"],
+    "ingredients": ["Arborio rice", "Mixed mushrooms", "Vegetable stock", "White wine", "Parmesan", "Onion", "Butter"],
+    "steps": ["Sauté mushrooms and set aside", "Cook onion until soft", "Add rice and toast briefly", "Gradually add warm stock while stirring", "Fold in mushrooms and cheese"]
+  },
+  {
+    "id": 8,
+    "title": "Fish Tacos",
+    "author": "Carlos",
+    "description": "Fresh and zesty Mexican-style tacos with crispy fish and tangy slaw",
+    "time": "30 mins",
+    "category": ["Main Dish", "Mexican", "Fish", "Tacos"],
+    "ingredients": ["White fish fillets", "Corn tortillas", "Cabbage", "Lime", "Cilantro", "Mayo", "Cumin", "Paprika"],
+    "steps": ["Season and cook fish until crispy", "Prepare cabbage slaw with lime and cilantro", "Warm tortillas", "Assemble tacos with fish and slaw"]
+  },
+  {
+    "id": 9,
+    "title": "Greek Lemon Soup",
+    "author": "Elena",
+    "description": "Traditional Greek avgolemono soup with chicken, rice, and bright lemon flavor",
+    "time": "25 mins",
+    "category": ["Soup", "Greek", "Chicken", "Comfort Food"],
+    "ingredients": ["Chicken broth", "Cooked chicken", "Rice", "Eggs", "Lemon juice", "Fresh dill", "Salt", "White pepper"],
+    "steps": ["Heat broth and add rice", "Cook until rice is tender", "Whisk eggs with lemon juice", "Temper egg mixture with hot broth", "Add chicken and season"]
+  },
+  {
+    "id": 10,
+    "title": "Banana Pancakes",
+    "author": "Emma",
+    "description": "Fluffy weekend pancakes with sweet banana and a hint of cinnamon",
+    "time": "20 mins",
+    "category": ["Breakfast", "Pancakes", "Sweet", "Weekend Brunch"],
+    "ingredients": ["Flour", "Baking powder", "Milk", "Eggs", "Ripe bananas", "Butter", "Cinnamon", "Maple syrup"],
+    "steps": ["Mash bananas in a bowl", "Mix dry ingredients separately", "Combine wet and dry ingredients", "Cook pancakes on griddle until golden", "Serve with syrup"]
+  },
+  {
+    "id": 11,
+    "title": "Thai Green Curry",
+    "author": "Nin",
+    "description": "Fragrant and spicy Thai curry with coconut milk and fresh vegetables",
+    "time": "30 mins",
+    "category": ["Main Dish", "Thai", "Curry", "Spicy"],
+    "ingredients": ["Green curry paste", "Coconut milk", "Chicken thighs", "Thai eggplant", "Bamboo shoots", "Thai basil", "Fish sauce"],
+    "steps": ["Fry curry paste in coconut cream", "Add chicken and cook through", "Pour in remaining coconut milk", "Add vegetables and simmer", "Finish with basil and fish sauce"]
+  },
+  {
+    "id": 12,
+    "title": "Caprese Salad",
+    "author": "Giovanni",
+    "description": "Classic Italian salad with fresh mozzarella, tomatoes, and basil",
+    "time": "10 mins",
+    "category": ["Salad", "Italian", "Vegetarian", "Fresh"],
+    "ingredients": ["Fresh mozzarella", "Ripe tomatoes", "Fresh basil", "Extra virgin olive oil", "Balsamic vinegar", "Sea salt", "Black pepper"],
+    "steps": ["Slice tomatoes and mozzarella", "Arrange alternating with basil leaves", "Drizzle with olive oil and balsamic", "Season with salt and pepper"]
+  },
+  {
+    "id": 13,
+    "title": "Beef Bourguignon",
+    "author": "Pierre",
+    "description": "Classic French braised beef in red wine with vegetables and herbs",
+    "time": "120 mins",
+    "category": ["Main Dish", "French", "Beef", "Slow Cook"],
+    "ingredients": ["Beef chuck", "Red wine", "Carrots", "Pearl onions", "Mushrooms", "Bacon", "Thyme", "Bay leaves"],
+    "steps": ["Brown beef and bacon", "Sauté vegetables", "Add wine and herbs", "Braise in oven for 2 hours", "Serve with crusty bread"]
+  },
+  {
+    "id": 14,
+    "title": "Quinoa Buddha Bowl",
+    "author": "Maya",
+    "description": "Nutritious bowl with quinoa, roasted vegetables, and tahini dressing",
+    "time": "35 mins",
+    "category": ["Main Dish", "Healthy", "Vegan", "Bowl"],
+    "ingredients": ["Quinoa", "Sweet potato", "Broccoli", "Chickpeas", "Avocado", "Tahini", "Lemon juice", "Pumpkin seeds"],
+    "steps": ["Cook quinoa according to package directions", "Roast vegetables and chickpeas", "Make tahini dressing", "Assemble bowl with all components", "Garnish with seeds"]
+  }
+]
