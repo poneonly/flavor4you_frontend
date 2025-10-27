@@ -1,15 +1,15 @@
 {
   "/api/recipes/category/route": "app/api/recipes/category/route.js",
   "/api/recipes/search/route": "app/api/recipes/search/route.js",
-  "/_not-found/page": "app/_not-found/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
   "/api/upload/route": "app/api/upload/route.js",
   "/api/recipes/route": "app/api/recipes/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/recipes/page": "app/recipes/page.js",
   "/create-recipe/page": "app/create-recipe/page.js",
   "/update-recipe/page": "app/update-recipe/page.js",
   "/recipes/[id]/page": "app/recipes/[id]/page.js",
-  "/recipes/page": "app/recipes/page.js",
-  "/page": "app/page.js",
-  "/(auth)/register/page": "app/(auth)/register/page.js",
-  "/(auth)/login/page": "app/(auth)/login/page.js"
+  "/(auth)/login/page": "app/(auth)/login/page.js",
+  "/(auth)/register/page": "app/(auth)/register/page.js"
 }
