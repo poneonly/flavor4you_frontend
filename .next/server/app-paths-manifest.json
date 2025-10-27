@@ -1,0 +1,10 @@
+{
+  "/api/upload/route": "app/api/upload/route.js",
+  "/api/recipes/category/route": "app/api/recipes/category/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/recipes/page": "app/recipes/page.js",
+  "/recipes/[id]/page": "app/recipes/[id]/page.js",
+  "/create-recipe/page": "app/create-recipe/page.js",
+  "/(auth)/login/page": "app/(auth)/login/page.js"
+}
