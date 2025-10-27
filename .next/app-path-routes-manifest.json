@@ -1,15 +1,15 @@
 {
-  "/api/recipes/category/route": "/api/recipes/category",
+  "/_not-found/page": "/_not-found",
   "/api/recipes/search/route": "/api/recipes/search",
+  "/api/recipes/category/route": "/api/recipes/category",
+  "/favicon.ico/route": "/favicon.ico",
   "/api/upload/route": "/api/upload",
   "/api/recipes/route": "/api/recipes",
-  "/_not-found/page": "/_not-found",
-  "/favicon.ico/route": "/favicon.ico",
   "/page": "/",
-  "/recipes/page": "/recipes",
-  "/create-recipe/page": "/create-recipe",
   "/update-recipe/page": "/update-recipe",
+  "/recipes/page": "/recipes",
   "/recipes/[id]/page": "/recipes/[id]",
-  "/(auth)/login/page": "/login",
-  "/(auth)/register/page": "/register"
+  "/create-recipe/page": "/create-recipe",
+  "/(auth)/register/page": "/register",
+  "/(auth)/login/page": "/login"
 }
