@@ -94,7 +94,7 @@ export default function AddRecipe() {
       </Box>
 
       {/* Add Recipe Form */}
-      <Form recipe={MOCK_RECIPE} />
+      <Form />
     </MainLayout>
   );
 }

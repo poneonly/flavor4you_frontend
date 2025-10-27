@@ -23,7 +23,11 @@ type Errors = {
   image?: string;
 };
 
-export default function Form() {
+type FormProps = {
+  recipe?: Recipe;
+};
+
+export default function Form({ recipe }: FormProps) {
   const router = useRouter();
 
   const [basic, setBasic] = React.useState<BasicInformationValue>({

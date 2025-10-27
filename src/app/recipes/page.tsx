@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Suspense } from 'react';
 import RecipesListPage from '../../features/recipes-list/views/RecipesListPage';
 
 export const metadata = {
@@ -7,7 +7,11 @@ export const metadata = {
 };
 
 const RecipesList: React.FC = () => {
-  return <RecipesListPage />;
+  return (
+    <Suspense fallback={<div>Loading...</div>}>
+      <RecipesListPage />
+    </Suspense>
+  );
 };
 
 export default RecipesList;

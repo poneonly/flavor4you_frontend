@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "images": {
+    "deviceSizes": [
+      640,
+      1080,
+      1920
+    ],
+    "imageSizes": [
+      64,
+      128,
+      256
+    ],
+    "path": "/_next/image/",
+    "loader": "default",
+    "loaderFile": "",
+    "domains": [],
+    "disableStaticImages": false,
+    "minimumCacheTTL": 31536000,
+    "formats": [
+      "image/webp"
+    ],
+    "dangerouslyAllowSVG": false,
+    "contentSecurityPolicy": "script-src 'none'; frame-src 'none'; sandbox;",
+    "contentDispositionType": "attachment",
+    "remotePatterns": [
+      {
+        "protocol": "https",
+        "hostname": "^(?:^(?:res\\.cloudinary\\.com)$)$",
+        "pathname": "^(?:(?!(?:^|\\/)\\.{1,2}(?:\\/|$))(?:(?:(?!(?:^|\\/)\\.{1,2}(?:\\/|$)).)*?)\\/?)$"
+      }
+    ],
+    "unoptimized": false,
+    "sizes": [
+      640,
+      1080,
+      1920,
+      64,
+      128,
+      256
+    ]
+  }
+}

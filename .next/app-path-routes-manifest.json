@@ -1,0 +1,15 @@
+{
+  "/api/recipes/category/route": "/api/recipes/category",
+  "/api/recipes/search/route": "/api/recipes/search",
+  "/_not-found/page": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/api/upload/route": "/api/upload",
+  "/api/recipes/route": "/api/recipes",
+  "/create-recipe/page": "/create-recipe",
+  "/update-recipe/page": "/update-recipe",
+  "/recipes/[id]/page": "/recipes/[id]",
+  "/recipes/page": "/recipes",
+  "/page": "/",
+  "/(auth)/register/page": "/register",
+  "/(auth)/login/page": "/login"
+}

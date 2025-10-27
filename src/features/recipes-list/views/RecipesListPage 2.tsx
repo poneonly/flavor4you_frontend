@@ -7,24 +7,12 @@ import MainLayout from '@layouts/ContainerLayout';
 import LimitSelector from '@components/LimitSelector';
 import RecipesList from '../list/RecipesList';
 import PaginationComponent from '@components/PaginationComponent';
-
-type Recipe = {
-  id: string | number;
-  image: string;
-  title: string;
-  description: string;
-  cookingTime: number;
-  servings: number;
-  views: number;
-  rating: number;
-  author: string;
-  categories: string[];
-};
+import { Recipe } from '@/types/recipe';
 
 const RECIPES: Recipe[] = [
   {
-    id: '1',
-    image:
+    id: 1,
+    recipeImages:
       'https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80',
     title: 'Chocolate Cake',
     description: 'Rich and moist cake',
@@ -34,10 +22,13 @@ const RECIPES: Recipe[] = [
     rating: 4.5,
     author: 'Ben',
     categories: ['Dessert', 'Baking'],
+    difficulty: 'medium',
+    ingredients: [],
+    steps: [],
   },
   {
-    id: '2',
-    image:
+    id: 2,
+    recipeImages:
       'https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80',
     title: 'Curated Collections',
     description: 'Discover recipes sorted by cuisine, ingredient, or occasion.',
@@ -47,10 +38,13 @@ const RECIPES: Recipe[] = [
     rating: 4.2,
     author: 'Anna',
     categories: ['Collections', 'Curation'],
+    difficulty: 'easy',
+    ingredients: [],
+    steps: [],
   },
   {
-    id: '3',
-    image:
+    id: 3,
+    recipeImages:
       'https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80',
     title: 'Community Voting',
     description: 'Rate and comment on recipes to highlight the best.',
@@ -60,10 +54,13 @@ const RECIPES: Recipe[] = [
     rating: 3.9,
     author: 'John',
     categories: ['Community', 'Interactive'],
+    difficulty: 'easy',
+    ingredients: [],
+    steps: [],
   },
   {
-    id: '4',
-    image:
+    id: 4,
+    recipeImages:
       'https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80',
     title: 'Chocolate Cake',
     description: 'Rich and moist cake',
@@ -73,10 +70,13 @@ const RECIPES: Recipe[] = [
     rating: 4.7,
     author: 'Ben',
     categories: ['Dessert', 'Baking'],
+    difficulty: 'medium',
+    ingredients: [],
+    steps: [],
   },
   {
-    id: '5',
-    image:
+    id: 5,
+    recipeImages:
       'https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80',
     title: 'Curated Collections',
     description: 'Discover recipes sorted by cuisine, ingredient, or occasion.',
@@ -86,10 +86,13 @@ const RECIPES: Recipe[] = [
     rating: 4.3,
     author: 'Anna',
     categories: ['Collections', 'Curation'],
+    difficulty: 'easy',
+    ingredients: [],
+    steps: [],
   },
   {
-    id: '6',
-    image:
+    id: 6,
+    recipeImages:
       'https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80',
     title: 'Community Voting',
     description: 'Rate and comment on recipes to highlight the best.',
@@ -99,6 +102,9 @@ const RECIPES: Recipe[] = [
     rating: 4.0,
     author: 'John',
     categories: ['Community', 'Interactive'],
+    difficulty: 'easy',
+    ingredients: [],
+    steps: [],
   },
 ];
 
